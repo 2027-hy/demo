@@ -1,6 +1,6 @@
 import {useState} from "react"
 function App() {
-  const frase = "Hello"
+  const frase = "wow"
   const [showFrase, setShowFrase] = useState(false);
   function print(){
     if(!showFrase){
